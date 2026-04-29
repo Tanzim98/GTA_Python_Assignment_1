@@ -8,4 +8,4 @@ def factorial(num):
 
 number = int(input("Enter a number: "))
 
-print("Factorial =", factorial(number))
+print(f"Factorial of {number} =", factorial(number))
