@@ -19,7 +19,6 @@ The project includes:
 
 ## 📂 Project Structure
 
-```bash
 GTA_Python_Assignment_1/
 │
 ├── Assignment_1/
